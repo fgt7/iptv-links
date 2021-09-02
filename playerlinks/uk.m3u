@@ -381,7 +381,7 @@ https://csm-e-stv.tls1.yospace.com/csm/live/211935407.m3u8
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Reuters.uk" tvg-name="Reuters" tvg-country="UK" tvg-language="English" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="",Reuters (720p)
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="ReutersNow.uk" tvg-name="Reuters Now" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM4NTg2MTFf/TheRokuChannel_880x880.png" group-title="",Reuters Now (1080p)
+#EXTINF:-1 tvg-id="ReutersNow.uk" tvg-name="Reuters Now" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="",Reuters Now (1080p)
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTVEU.uk" tvg-name="Reuters TV (EU)" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VUlZlJe.jpg" group-title="",Reuters TV (EU) (720p)
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
