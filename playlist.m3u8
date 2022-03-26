@@ -1,0 +1,131 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/55f178eb058d0717b0467456?w=80&q=75" group-title="ULUSAL",TRT 1
+https://mn-nl.mncdn.com/blutv_trt12/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2be53866ac331e0feb20e?w=80&q=75" group-title="ULUSAL",STAR
+https://mn-nl.mncdn.com/blutv_startv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2be70866ac31da06187b1?w=80&q=75" group-title="ULUSAL",KANAL D
+https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="ULUSAL",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dcd4eec866ac302bcb1c34b?w=80&q=75" group-title="ULUSAL",SHOW
+https://mn-nl.mncdn.com/blutv_showtv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2bd27866ac331e0feb1fe?w=80&q=75" group-title="ULUSAL",FOX
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="360TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/6156eaa5866ac30d10beb9f1?w=80&q=75" group-title="ULUSAL",360TV
+https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEVE2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c114866ac331e0feb225?w=80&q=75" group-title="ULUSAL",TEVE2
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8 5" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c02c866ac31da06187c7?w=80&q=75" group-title="ULUSAL",TV8 5
+https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5afec182fbead3711c39d385?w=80&q=75" group-title="ULUSAL",KANAL 7
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c63c27a866ac30cbc2ad836?w=80&q=75" group-title="ULUSAL",BEYAZ TV
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c20e866ac331e0feb233?w=80&q=75" group-title="ULUSAL",TRT TURK
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KONTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c62b751866ac30cbc2ad618?w=80&q=75" group-title="ULUSAL",KONTV
+https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILYON TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/60900db7866ac318488bc30f?w=80&q=75" group-title="ULUSAL",MILYON TV
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c1df866ac331e0feb231?w=80&q=75" group-title="ULUSAL",KANAL B
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EKO TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c63c377866ac30cbc2ad843?w=80&q=75" group-title="ULUSAL",EKO TURK
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c03d866ac31da06187cb?w=80&q=75" group-title="ULUSAL",VUSLAT TV
+https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ERT TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c62b447866ac30cbc2ad5e7?w=80&q=75" group-title="ULUSAL",ERT TV
+https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIYANET TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c63c2cd866ac30cbc2ad83e?w=80&q=75" group-title="ULUSAL",DIYANET TV
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARAPCA" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c297866ac331e0feb238?w=80&q=75" group-title="ULUSAL",TRT ARAPCA
+https://mn-nl.mncdn.com/blutv_arapca2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT KURDI" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c283866ac31da06187f0?w=80&q=75" group-title="ULUSAL",TRT KURDI
+https://mn-nl.mncdn.com/blutv_trtkurdi2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/61a71850866ac31958347a2b?w=80&q=75" group-title="ULUSAL",FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIZIM EV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/60420ec2866ac32430025ece?w=80&q=75" group-title="ULUSAL",BIZIM EV
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV4" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/6156efcb866ac30d10beba08?w=80&q=75" group-title="ULUSAL",TV4
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UCANKUS" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5ff1ebf2866ac30e58e08ac1?w=80&q=75" group-title="ULUSAL",UCANKUS
+https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LUSAL KANAL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/603c1580866ac31704a99333?w=80&q=75" group-title="HABER",ULUSAL KANAL
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/60420fa5866ac32430025edd?w=80&q=75" group-title="HABER",TV 100
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/60e54dfe866ac30fa0be7528?w=80&q=75" group-title="HABER",TELE 1
+https://mn-nl.mncdn.com/blutv_tele12/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ULKE TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5afec289fbead3711c39d395?w=80&q=75" group-title="HABER",ULKE TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/61951f4c866ac31a807822e8?w=80&q=75" group-title="HABER",KRT
+https://mn-nl.mncdn.com/blutv_krt/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2bfbd866ac31da06187c5?w=80&q=75" group-title="HABER",HALK TV
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/56a72d98058d024d98970264?w=80&q=75" group-title="HABER",NTV
+https://mn-nl.mncdn.com/blutv_ntv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/61236013866ac319e8143500?w=80&q=75" group-title="HABER",CNN TURK
+https://mn-nl.mncdn.com/blutv_cnnturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2bf0c866ac331e0feb216?w=80&q=75" group-title="HABER",HABERTURK
+https://mn-nl.mncdn.com/blutv_haberturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HABER GLOBAL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/603dfe0f866ac31798b3f4fa?w=80&q=75" group-title="HABER",HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 24" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2bca3866ac331e0feb1ed?w=80&q=75" group-title="HABER",KANAL 24
+https://mn-nl.mncdn.com/blutv_kanal242/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c63ca3a866ac30cbc2ad87a?w=80&q=75" group-title="HABER",TRT HABER
+https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c63c466866ac30cbc2ad84f?w=80&q=75" group-title="HABER",TGRT HABER
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERK HT" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2bcb7866ac331e0feb1f0?w=80&q=75" group-title="HABER",BLOOMBERK HT
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5c62c14c866ac30cbc2ad6be?w=80&q=75" group-title="HABER",TRT WORLD
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/61dbdc79866ac32a04999663?w=80&q=75" group-title="SPOR",TRT SPOR
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:-1 tvg-id="TRT SPOR YILDIZ" tvg-name="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/614441af866ac320ac9a1ebb?w=80&q=75" group-title="SPOR",TRT SPOR YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c186866ac331e0feb22d?w=80&q=75" group-title="SPOR",SPORTS TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAY TV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/569cbc0efbead3257cb467f4?w=80&q=75" group-title="SPOR",TAY TV
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5e415bb8866ac31d980eb377?w=80&q=75" group-title="MUZIK",NR1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5e415748866ac31d980eb317?w=80&q=75" group-title="MUZIK",NR1
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAM TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c085866ac31da06187cd?w=80&q=75" group-title="MUZIK",DREAM TURK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c125866ac31da06187d6?w=80&q=75" group-title="MUZIK",POWER TURK
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c155866ac331e0feb22b?w=80&q=75" group-title="MUZIK",POWER
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=",TRT MUZIK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/619cbdc2866ac325b46b7c01?w=80&q=75" group-title="MUZIK",TRT MUZIK
+https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/604a04ef866ac32574736ef6?w=80&q=75" group-title="BELGESEL",DMAX
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/604a04d1866ac32574736eef?w=80&q=75" group-title="BELGESEL",TLC
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5dc2c0f8866ac31da06187cf?w=80&q=75" group-title="BELGESEL",TRT BELGESEL
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV BELGESEL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d3dd8866ac31b90687ce6?w=80&q=75" group-title="BELGESEL",BLUTV BELGESEL
+https://mn-nl.mncdn.com/blutv_belgesel/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/60995084866ac3099473a292?w=80&q=75" group-title="BELGESEL",INVESTIGATION DISCOVERY
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV KOMEDİ" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d44fd866ac31b90687cf0?w=80&q=75" group-title="FILM",BLUTV KOMEDİ
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV AKSIYON" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d4509866ac31b90687cf3?w=80&q=75" group-title="FILM",BLUTV AKSIYON
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV OZEL YAPIM" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d44e3866ac31b90687cea?w=80&q=75" group-title="FILM",BLUTV OZEL YAPIM
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV NOSTALJI 1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d3d86866ac31b90687ce3?w=80&q=75" group-title="FILM",BLUTV NOSTALJI 1
+https://mn-nl.mncdn.com/blutv_nostalji/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV NOSTALJI 2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d3d86866ac31b90687ce3?w=80&q=75" group-title="FILM",BLUTV NOSTALJI 2
+https://mn-nl.mncdn.com/blutv_nostalji2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUTV KIDS" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/616d3d86866ac31b90687ce3?w=80&q=75" group-title="COCUK",BLUTV KIDS
+https://mn-nl.mncdn.com/blutv_cocuk/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT COCUK" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/61812fbc866ac312580210c5?w=80&q=75" group-title="COCUK",TRT COCUK
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBA ILKOKUL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5e79d359866ac31274dbd557?w=80&q=75" group-title="EBA",EBA ILKOKUL
+https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBA ORTAOKUL" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5e79d45e866ac31274dbd565?w=80&q=75" group-title="EBA",EBA ORTAOKUL
+https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBA LISE" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/86/200x200/5e79d608866ac31274dbd582?w=80&q=75" group-title="EBA",EBA LISE
+https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
